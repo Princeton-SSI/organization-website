@@ -13,7 +13,7 @@ export default class extends Component {
       <div>
         <h1>About Us</h1>
         <p>We are a team of undergraduate students dedicated to using software to address sustainability challenges.</p>
-        <p>We are a project-focused organization. We also hold programming workshops and guest lectures. Revert sample</p>
+        <p>We are a project-focused organization. We also hold programming workshops and guest lectures.</p>
       </div>
     );
   }
